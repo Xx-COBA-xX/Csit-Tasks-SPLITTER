@@ -1,0 +1,232 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    color :#f0f0f0;
+    color: #c5e4e7;
+    color: #00474b;
+    color: #26c2ad;
+    color: #064d51;
+}
+
+body {
+    background-color: #f0f0f0;
+}
+
+.Main_box {
+    position: absolute;
+    width: 70%;
+    height: 80%;
+    top: 10%;
+    left: 15%;
+    background-color:#c5e4e7 ;
+    border-radius: 4px;
+    box-shadow: 0px 30px 25px rgb(218, 216, 216);
+}
+
+h4 {
+    position: absolute;
+    top: 9%;
+    left: 47%;
+    color: #2a6063;
+
+}
+
+.box2 {
+    position: absolute;
+    width: 60%;
+    height: 60%;
+    top: 20%;
+    left: 20%;
+    background-color: #ffffff;
+    border-radius: 17px;
+    box-shadow: 1px 5px 20px rgb(204, 220, 226);
+}
+
+.box3 {
+    position: absolute;
+    width: 46%;
+    height: 86%;
+    top: 7%;
+    left: 50%;
+    background-color: #00474b;
+    border-radius: 17px;
+
+}
+
+div .Bill {
+    margin: 25px 0 10px 27px;
+}
+
+.Bill input {
+    width: 41%;
+    height: 35px;
+    margin-top: 5px;
+    border: none;
+    outline: none;
+    background:none;
+    background-color: #f3f8fd;
+    border-radius: 3px;
+    text-align: right;
+    padding-right: 13px;
+    font-size: 19px;
+    font-weight: 700;
+    color: #00474b;
+}
+
+.Bill label {
+    color: #849ea5;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+span {
+    position: absolute;
+    top: 33.5%;
+    left: 31.5%;
+    font-weight: bold;
+    color: #849ea5;
+    font-size: 15px;
+}
+
+.Bill h5 {
+    margin-top: 30px;
+    color: #849ea5;
+}
+.Tip_Box {
+    margin-top: 14px;
+}
+
+.btn {
+    margin-right: 4px;
+    margin-bottom: 10px;
+    width: 86px;
+    height: 36px;
+    border: none;
+    outline: none;
+    background: none;
+    background-color: #00474b;
+    color: #e1f7f7;
+    font-weight: 600;
+    font-size: 18px;
+    border-radius: 4px;
+    /* box-shadow: 1px 3px 5px rgb(204, 201, 201); */
+}
+
+#Custom {
+    background-color: #f3f8fd ;
+    color: #4a6970 ;
+    font-weight: 700;
+}
+
+div .footer h5 {
+    margin-bottom: 7px;
+}
+
+i {
+    position: absolute;
+    top: 65.5%;
+    left: 31.5%;
+    color: #849ea5 ;
+}
+
+div .footer input {
+    font-weight: 820;
+}
+
+.RESET {
+    position: absolute;
+    top: 78%;
+    margin-left:29px ;
+}
+
+.RESET button {
+    width: 250px;
+    height: 40px;
+    border: none;
+    outline: none;
+    background-color: #26c2ad;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    color: #245964;
+    box-shadow: 1px 3px 7px rgb(17, 98, 109);
+}
+
+#Tip {
+    margin-top: 40px;
+    margin-left: 99px;
+    width: 180px;
+    height: 50px;
+    border: none;
+    outline: none;
+    background: none;
+    text-align: right;
+    font-size: 35px;
+    font-weight: 800;
+    color: #26c2ad;
+}
+
+.com {
+    position: absolute;
+    top: 35.5%;
+    left: 52%;
+}
+
+.com h5 {
+    color: #d6dada ;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.com label {
+    color: #4a6970;
+    font-size: 13px;
+}
+
+.com2 {
+    position: absolute;
+    top: 46%;
+    left: 52%;
+}
+
+.com2 h5 {
+    color: #d6dada ;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.com2 label {
+    color: #4a6970;
+    font-size: 13px;
+}
+
+.in_2 {
+    margin-top: -12px;
+}
+
+.btn:hover {
+    background-color: #26c2ad;
+    color: #4a6970;
+    box-shadow: 0px 1px 5px rgb(153, 148, 148);
+}
+
+.btn:focus {
+    background-color: #04aa9c;
+    color: #4a6970;
+}
+
+#Custom:focus {
+    background-color: #04aa9c;
+    color: #4a6970;
+}
+
+.RESET button:hover {
+    background-color: #c7d7db;
+}
+
+.RESET button:active {
+    box-shadow: inset 2px 2px 5px rgb(129, 153, 156);
+   
+}
